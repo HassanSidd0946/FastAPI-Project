@@ -19,3 +19,4 @@ app.include_router(routes_predict.router, tags=['Prediction'])
 Instrumentator().instrument(app).expose(app)
 
 # add exception handler
+register_exception_handlers(app)
