@@ -89,4 +89,4 @@ Made by Muhammad Hassan Siddiqui
 
 Feel free to connect:  
 - [Email](mailto:hassansiddiqui0946@gmail.com)  
-- [LinkedIn](www.linkedin.com/in/muhammad-hassan-siddiqui-b157132b2)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-hassan-siddiqui-b157132b2/)
